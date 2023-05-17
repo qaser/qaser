@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qaser
 - 👀 I’m interested in web-programming
-- 🌱 I’m currently learning JavaScript
+
 
 <!---
 qaser/qaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
